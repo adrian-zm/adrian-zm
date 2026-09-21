@@ -1,16 +1,29 @@
-## Hi there 👋
+# [Tu Alias o Nombre Profesional]
 
-<!--
-**adrian-zm/adrian-zm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador web enfocado en frontend, arquitecturas modulares y diseño de interfaces funcionales. Estudiante de Desarrollo de Aplicaciones Web (DAW).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stack Técnico
+* **Frontend:** HTML5 semántico, CSS3 moderno, Tailwind CSS, JavaScript (ES6+), TypeScript.
+* **Backend / Servicios:** PHP, Java, APIs RESTful.
+* **Entorno y Herramientas:** Neovim / Ghostty, Git, entornos Unix/macOS.
+
+---
+
+### Proyectos Destacados
+
+#### [Nombre del Proyecto 1](enlace-al-repo)
+* **Descripción:** Aplicación web para gestión de [...] desarrollada con arquitectura de componentes limpia.
+* **Tecnologías:** TypeScript, Tailwind CSS, Vite.
+* **Demo / Código:** [Ver repositorio](enlace) | [Demo en vivo](enlace-si-existe)
+
+#### [Nombre del Proyecto 2](enlace-al-repo)
+* **Descripción:** Backend en Java/PHP para API de [...], implementando persistencia de datos y control de errores.
+* **Tecnologías:** PHP, MySQL, Apache.
+
+---
+
+### Contacto
+* Web / Portfolio: [tudominio.top](https://tudominio.top)
+* Correo profesional: contacto@tudominio.top
