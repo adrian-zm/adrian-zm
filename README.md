@@ -1,29 +1,25 @@
-# [Tu Alias o Nombre Profesional]
+#  Adrian /* zuloide */
 
-Desarrollador web enfocado en frontend, arquitecturas modulares y diseño de interfaces funcionales. Estudiante de Desarrollo de Aplicaciones Web (DAW).
-
----
-
-### Stack Técnico
-* **Frontend:** HTML5 semántico, CSS3 moderno, Tailwind CSS, JavaScript (ES6+), TypeScript.
-* **Backend / Servicios:** PHP, Java, APIs RESTful.
-* **Entorno y Herramientas:** Neovim / Ghostty, Git, entornos Unix/macOS.
+web development student (DAW) and graphic designer. 
+currently focused on frontend architecture, raw layouts, and visual identities. 
+obsessed with fast tools, minimal setups, and pretty things.
 
 ---
 
-### Proyectos Destacados
+### tech & stack
+* **frontend:** semantic HTML5, modern CSS, styling systems & working through modern JavaScript.
+* **backend:** Java foundations, object-oriented design & backend logic.
+* **design & visuals:** branding, brutalist/experimental graphics, cover art, poster work & UI assets.
+  
+---
 
-#### [Nombre del Proyecto 1](enlace-al-repo)
-* **Descripción:** Aplicación web para gestión de [...] desarrollada con arquitectura de componentes limpia.
-* **Tecnologías:** TypeScript, Tailwind CSS, Vite.
-* **Demo / Código:** [Ver repositorio](enlace) | [Demo en vivo](enlace-si-existe)
-
-#### [Nombre del Proyecto 2](enlace-al-repo)
-* **Descripción:** Backend en Java/PHP para API de [...], implementando persistencia de datos y control de errores.
-* **Tecnologías:** PHP, MySQL, Apache.
+### what i'm up to
+- 🛠️ building interactive web interfaces and DAW projects.
+- 🎨 designing visuals, posters, and cover art for creative concepts.
+- ⚡ optimizing my local environment and learning deeper JS/TS tooling.
 
 ---
 
-### Contacto
-* Web / Portfolio: [tudominio.top](https://tudominio.top)
-* Correo profesional: contacto@tudominio.top
+### find me
+* **personal web:** [zuloide.top](https://zuloide.top)
+* **contact:** contacto@zuloide.top
